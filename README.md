@@ -107,6 +107,6 @@ docker-compose up --build
 - GET `/api/movies/favorites`: Listar favoritos
 - DELETE `/api/movies/favorites/:id`: Eliminar de favoritos
 
-Fallos:
-Reviews y Search están no operativos.
-Cuando se inicia sesión y te reedirige a mivieList, hace falta recargar la pagina para que haga el loginCheck y ya se puedan añadir películas a favoritos.
+#### Fallos:
+- Reviews y Search están no operativos.
+- Cuando se inicia sesión y te reedirige a mivieList, hace falta recargar la pagina para que haga el loginCheck y ya se puedan añadir películas a favoritos.
