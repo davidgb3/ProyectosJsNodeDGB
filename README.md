@@ -43,8 +43,9 @@ en la raiz del proyecto ejecutar: docker-compose up --build
 
 ### Iniciar proyecto
 
-bash
-en la raiz del proyecto ejecutar: docker-compose up --build
+- bash
+- En la raiz del proyecto ejecutar: docker-compose up --build
+- Para ver la MongoDB hace falta mongoCompass, realizas una nueva conexión a la URI: mongodb://tu_IP:27017/ y podrás visualizar la BD.
 
 ### Puertos y rutas
 - Frontend: http://localhost:5173
