@@ -106,3 +106,6 @@ docker-compose up --build
 - POST `/api/movies/favorites`: Añadir a favoritos
 - GET `/api/movies/favorites`: Listar favoritos
 - DELETE `/api/movies/favorites/:id`: Eliminar de favoritos
+
+#### Fallos:
+- Reviews y Search están no operativos.
